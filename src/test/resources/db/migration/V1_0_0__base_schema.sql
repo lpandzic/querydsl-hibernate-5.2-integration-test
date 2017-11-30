@@ -1,0 +1,4 @@
+CREATE TABLE FooBar (
+  Id        NVARCHAR(1),
+  CONSTRAINT PK_Person PRIMARY KEY (Id)
+);
